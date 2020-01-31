@@ -12,10 +12,10 @@
 
 ### **How to use**
 
-- 1: <strong>Run yarn</strong> ( install all dependencies);
-- 2: <strong>Run yarn sequelize db:migrate </strong> ( Run all migrations of project);
-- 3: <strong>Run yarn sequelize db:seed:all</strong> ( Run all seeders of project);
-- 4: <strong>Run yarn dev</strong> ( Run server );
+- 1: Run<strong>yarn</strong> ( install all dependencies);
+- 2: Run<strong>yarn sequelize db:migrate </strong> ( Run all migrations of project);
+- 3: Run<strong>yarn sequelize db:seed:all</strong> ( Run all seeders of project);
+- 4: Run<strong>yarn dev</strong> ( Run server );
 
 ## :memo: Licença
 
